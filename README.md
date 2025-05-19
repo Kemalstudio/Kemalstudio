@@ -29,3 +29,21 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEMAL&layout=compact&langs_count=10&theme=dark&hide_border=true&custom_title=Most%20Used%20Languages&title_color=FFFFFF&text_color=c9d1d9&icon_color=79ff97&bg_color=0d1117" alt="Most Used Languages" />
+</p>
+
+--- 
+<!-- Можешь добавить сюда другие секции, например, GitHub Stats -->
+<!-- 
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KEMAL&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=c9d1d9&icon_color=79ff97" alt="Kemal's GitHub stats" />
+</p>
+-->
