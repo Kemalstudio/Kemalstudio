@@ -42,18 +42,18 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=cobalt" alt="Repos per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=solarized" alt="Repos per Language"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=default" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=solarized" alt="Most Commit Language"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kemalstudio&theme=solarized_dark" alt="Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kemalstudio&theme=solarized" alt="Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kemalstudio&theme=solarized_dark" alt="Productive Time"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kemalstudio&theme=solarized" alt="Productive Time"/>
     </td>
   </tr>
 </table>
