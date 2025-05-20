@@ -37,15 +37,15 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kemalstudio&theme=solarized_dark" alt="Profile Details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kemalstudio&theme=solarized" alt="Profile Details"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=solarized_dark" alt="Repos per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=cobalt" alt="Repos per Language"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=solarized_dark" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=default" alt="Most Commit Language"/>
     </td>
   </tr>
   <tr>
