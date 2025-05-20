@@ -34,17 +34,26 @@
 ---
 
 ## 📊 Most Used Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kemalstudio&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kemalstudio&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kemalstudio&theme=solarized_dark)
-
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kemalstudio&theme=solarized_dark" alt="Profile Details"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemalstudio&theme=solarized_dark" alt="Repos per Language"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kemalstudio&theme=solarized_dark" alt="Most Commit Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kemalstudio&theme=solarized_dark" alt="Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kemalstudio&theme=solarized_dark" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
