@@ -2,7 +2,7 @@
 <h1 align="center">👋 Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FEC8D8¢er=true&vCenter=true&width=440&lines=Hello!+I'm+KEMAL.;I'm+front-end+developer.;Welcome+to+my+GitHub+profile;If+you+encounter+any+problems,;contact+me+on+Telegram,;and+I+will+answer+you!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FEC8D8&center=true&vCenter=true&width=550&lines=Hello!+I'm+KEMAL.;I'm+a+Front-end+Developer.;Welcome+to+my+GitHub+profile!;If+you+have+any+questions,;contact+me+via+Telegram,+Teams,+or+Gmail.;I'll+be+happy+to+help!+🧠" alt="Typing SVG">
 </p>
 
 ---
