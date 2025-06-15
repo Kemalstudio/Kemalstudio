@@ -10,28 +10,36 @@
 ## 🌐 Follow Me / Contact Me / Reach Me
 
 <p align="center">  
-  <a href="mailto:kemalatayew913@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/kemal_studio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:kemalatayew913@gmail.com"><img src="https://img.shields.io/badge/Gmail-222?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://t.me/kemal_studio" target="_blank"><img src="https://img.shields.io/badge/Telegram-222?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
   <br/>
-  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=kemalatayew913@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/></a>
+  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-222?style=for-the-badge&logo=tiktok&logoColor=black"/></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-222.svg?style=for-the-badge&logo=instagram&logoColor=red"/></a>
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=kemalatayew913@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-222?style=for-the-badge&logo=teams&logoColor=blue"/></a>
 </p>
 
 ## 🧰 I use this Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/XAMPP-000?style=for-the-badge&logo=xampp&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/HTML-222?style=for-the-badge&logo=html5&logoColor=red"/>
+  <img src="https://img.shields.io/badge/CSS-222?style=for-the-badge&logo=css&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PHP-222?style=for-the-badge&logo=php&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SASS-222?style=for-the-badge&logo=sass&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/Laravel-222?style=for-the-badge&logo=laravel&logoColor=red"/>
+  <img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-000?style=for-the-badge&logo=phpMyAdmin&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/.env-94fc03?style=for-the-badge&logo=dotenv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-222?style=for-the-badge&logo=bootstrap&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/jquery-222?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-222?style=for-the-badge&logo=phpMyAdmin&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/XAMPP-222?style=for-the-badge&logo=xampp&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/.env-222?style=for-the-badge&logo=dotenv&logoColor=orange"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/json-222?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
