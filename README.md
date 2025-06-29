@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <br/>
   <img src="https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-222?style=for-the-badge&logo=bootstrap&logoColor=blue"/>
   <img src="https://img.shields.io/badge/jquery-222?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-222?style=for-the-badge&logo=phpMyAdmin&logoColor=yellow"/>
@@ -40,6 +39,7 @@
   <img src="https://img.shields.io/badge/.env-222?style=for-the-badge&logo=dotenv&logoColor=orange"/>
   <br/>
   <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/badge/json-222?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
