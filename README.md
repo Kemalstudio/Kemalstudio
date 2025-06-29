@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/SASS-222?style=for-the-badge&logo=sass&logoColor=pink"/>
   <img src="https://img.shields.io/badge/Laravel-222?style=for-the-badge&logo=laravel&logoColor=red"/>
   <img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Chart.js-222?style=for-the-badge&logo=chart.js&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <br/>
