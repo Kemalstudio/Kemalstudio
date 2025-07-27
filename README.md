@@ -8,7 +8,6 @@ Feel free to explore and connect with me.
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM1dHBpOG5yN2Jrd2w1d3VsaXlrb2I4eXJjc3BmM3YwOWRpbHc5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9hCsO5BuroE7/giphy.gif" width="200" alt="Programmer Animation"/>
   <h1>Hey there, I'm Kemal Atayew! 👋</h1>
 </div>
 
