@@ -13,7 +13,7 @@ Feel free to explore and connect with me.
 
 <!-- Introduction -->
 <div align="center">
-  <p>A passionate <strong>Junior Full-Stack & App Developer</strong> from Turkmenistan 🇹🇲. I am dedicated to building robust, user-friendly web and mobile applications from the ground up. I thrive on solving complex problems and am always eager to learn and implement new technologies to enhance my craft.</p>
+  <p>A passionate <strong>Junior Full-Stack Web & App Developer</strong> from Turkmenistan 🇹🇲. I am dedicated to building robust, user-friendly web and mobile applications from the ground up. I thrive on solving complex problems and am always eager to learn and implement new technologies to enhance my craft.</p>
 </div>
 
 <!-- Social & Contact Links -->
