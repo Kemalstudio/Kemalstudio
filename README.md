@@ -59,11 +59,12 @@ Feel free to explore and connect with me.
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
+    <img src="https://img.shields.io/badge/Laravel-800000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Blade-965a0f?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-027822?style=for-the-badge&logo=django&logoColor=black" alt="Python"/>
   </p>
 </details>
 
