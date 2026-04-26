@@ -1,4 +1,4 @@
-<!-- --- Welcome to my GitHub profile! I'm excited to share my journey as a developer. Feel free to explore and connect with me. --- --> 
+-<!-- --- Welcome to my GitHub profile! I'm excited to share my journey as a developer. Feel free to explore and connect with me. --- --> 
 
 <!-- Animated Header --> 
 <div align="center"> 
@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+    <img src="https://img.shields.io/badge/React-CECECE?style=for-the-badge&logo=react&logoColor=blue" alt="React"/> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/> 
@@ -55,6 +56,7 @@
     <img src="https://img.shields.io/badge/Blade-965a0f?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+    <img src="https://img.shields.io/badge/RestAPI-C4C3C4?style=for-the-badge&logo=restapi&logoColor=white" alt="RestAPI"/> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
     <img src="https://img.shields.io/badge/Django-027822?style=for-the-badge&logo=django&logoColor=black" alt="Python"/> 
   </p> 
