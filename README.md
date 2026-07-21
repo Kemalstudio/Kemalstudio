@@ -51,9 +51,6 @@
 #### 📱 Mobile Development
 `Flutter` `Dart` `Android Studio`
 
-#### ⚙️ Tools & Environment
-`GitHub` `Figma` `XAMPP` `phpMyAdmin` `Postman` `.env` `JSON` `pgAdmin4`
-
 </td>
 </tr>
 <tr>
@@ -65,6 +62,18 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" alt="divider"/>
+</p>
+
+## 🎯 Currently Focusing On
+
+- 🔁 **CI/CD** — automating deployments with GitHub Actions
+- 🔒 **SSL/Certbot** — securing production servers
+- ⚙️ **Process Managers** — PM2 / Supervisor for keeping apps alive
+- ✅ **Automated Testing** — PHPUnit / Pytest
+- 📦 **Containerization** — deepening Docker skills toward Kubernetes basics
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" alt="divider"/>
