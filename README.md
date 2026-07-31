@@ -2,17 +2,17 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Kemal%20Atayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Middle%20Full-Stack%20Developer%20%7C%20Junior%20DevOps&descAlignY=55&descSize=18" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Kemal%20Atayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Full-Stack%20Developer%20%7C%20DevOps&descAlignY=55&descSize=18" alt="Header Banner"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+robust+web+%26+mobile+apps;Growing+into+DevOps+%26+server+management;Always+shipping%2C+always+learning" alt="Typing SVG"/>
-</p>
+</p> 
 
 <!-- Introduction -->
 <div align="center">
-  <p width="80%">A passionate <strong>Middle Full-Stack Developer</strong> and <strong>Junior DevOps</strong> from Turkmenistan 🇹🇲. I build robust, user-friendly web and mobile applications from the ground up, and I'm currently growing into server administration and deployment — learning to take projects from code to production. Always eager to solve problems and pick up new technologies along the way.</p>
+  <p width="80%">A passionate <strong>Full-Stack Developer</strong> and <strong>DevOps</strong> from Turkmenistan 🇹🇲. I build robust, user-friendly web and mobile applications from the ground up, and I'm currently growing into server administration and deployment — learning to take projects from code to production. Always eager to solve problems and pick up new technologies along the way.</p>
 </div>
 
 <!-- Social & Contact Links -->
